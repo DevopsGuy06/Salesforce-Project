@@ -1,4 +1,4 @@
-*****************************************************Salesforce Insurance Management Solution System ****************************************************************************************************************
+## Salesforce Insurance Management Solution System 
 
 This repository contains the source code and configuration files for an insurance management system built on the Salesforce platform.
 
